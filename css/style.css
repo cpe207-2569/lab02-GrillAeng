@@ -1,0 +1,44 @@
+h3 {
+  text-align: center;
+  font-size: 200%;
+  color: pink;
+}
+
+img {
+  width: 15%;
+  margin: auto;
+  display: block;
+}
+
+.p1{
+    color: salmon;
+}
+
+.content1{
+    color: rgb(221, 171, 223);
+    font-size: 150%;
+}
+
+sub{
+  border: 2px groove plum;
+  width: 600px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  display: inline-block;
+  text-align: left;
+  font-size: 100%;
+}
+
+.bodoni-moda-400{
+  font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.ibm-plex-sans-thai-looped-regular {
+  font-family: "IBM Plex Sans Thai Looped", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
